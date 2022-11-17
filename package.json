@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "tuiter-node-server-app",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web server for the Tuiter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/ahnfikd7/tuiter-node-server-app"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP"
+  ],
+  "author": "Ahnaf Inkiad",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
